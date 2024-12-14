@@ -4,5 +4,5 @@
 # Contributors
 - Maria Mironova
 - Iva Nikiforova
-- Jovana Božilov
+- Yovana Bozhilov
 - Stefan Halvadzhiev
